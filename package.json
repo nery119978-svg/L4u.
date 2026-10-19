@@ -1,0 +1,17 @@
+{
+  "name": "los-4-ultimos-server",
+  "version": "1.0.0",
+  "description": "Servidor de salas para Los 4 Últimos (multijugador cooperativo y versus)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
